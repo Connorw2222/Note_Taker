@@ -45,7 +45,7 @@ app.post('/api/notes', function (req, res) {
 //Displaying notes load on front end (work on it from the front end)
     //fetch request and create new elements. 
 
-// Delete route
+
 
 
 // Listener
